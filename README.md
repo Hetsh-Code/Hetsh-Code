@@ -36,4 +36,11 @@
   &nbsp; <a  href="mailto:ssefashions@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"  width="50" /></a>
 </p>
 
+
+<!-- Scanner for thanks -->
+<h3> 🔗 Scan this: </h3>
+<p align="center">
+  ![QR code not detected](qrCode.png)
+</p>
+
 ⭐️ From [Hetsh-Code](https://github.com/Hetsh-Code)
