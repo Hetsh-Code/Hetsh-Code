@@ -40,7 +40,7 @@
 <!-- Scanner for thanks -->
 <h3> 🔗 Scan these: </h3>
 <p align="center">
-  &nbsp; <img src="./qrCode.png" width="250px"></img> <img src="./qrCode.png" width="250px"></img>
+  &nbsp; <img src="./qrCode.png" width="250px"></img> <img src="./qrCode2.png" width="250px"></img>
 </p>
 
 ⭐️ From [Hetsh-Code](https://github.com/Hetsh-Code)
