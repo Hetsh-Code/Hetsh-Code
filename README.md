@@ -40,7 +40,7 @@
 <!-- Scanner for thanks -->
 <h3> 🔗 Scan this: </h3>
 <p align="center">
-  ![QR code not detected](qrCode.png)
+  ![QR code not detected](./qrCode.png)
 </p>
 
 ⭐️ From [Hetsh-Code](https://github.com/Hetsh-Code)
