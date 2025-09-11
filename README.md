@@ -31,7 +31,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-  &nbsp; <a href="https://www.youtube.com/@Hetsh-Code" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png"  width="50" /></a>
+  &nbsp; <a href="https://m.youtube.com/channel/UC0E4o6ajlpyifN7ETlLjhag/?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png"  width="50" /></a>
   &nbsp; <a href="https://www.instagram.com/hetshcode/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" width="50" /></a>
   &nbsp; <a  href="mailto:ssefashions@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"  width="50" /></a>
 </p>
